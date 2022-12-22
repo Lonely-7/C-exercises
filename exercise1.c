@@ -1,3 +1,5 @@
+//Creating multiplication table of desrired numbers given by the user
+
 #include<stdio.h>
 
 int main()
