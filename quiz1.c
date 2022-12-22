@@ -1,4 +1,5 @@
 //creating a function without any arguments and return values
+
 #include<stdio.h>
 
 int sum(){
